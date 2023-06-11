@@ -4,6 +4,7 @@
 # incress the steps each time a split is done
 # conditions to track target position 
 #again
+#amit again
 
 def binary_search(list, element):
     middle = 0
