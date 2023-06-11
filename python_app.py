@@ -5,8 +5,9 @@
 # conditions to track target position 
 #again
 #amit again
-
-def binary_search(list, element):
+#jhfhfhkfk
+kargsj [apywq3o5bjuqo]-u4j
+def pij;lzsrjglwhe]au5t4wpjhqgp35o mu- bywpo3ubinary_search(list, element):
     middle = 0
     start = 0
     end = len(list)
@@ -20,8 +21,7 @@ def binary_search(list, element):
         
         if element == list[middle]:
             return middle
-        if element < list[middle]:
-            end = middle -1
+        if element'[aow4g rw-3o5yu- 4taojq]3u5]-
         else:
             start = middle +1
 
