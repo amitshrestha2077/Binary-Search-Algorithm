@@ -3,6 +3,7 @@
 # recursion or while loop 
 # incress the steps each time a split is done
 # conditions to track target position 
+#again
 
 def binary_search(list, element):
     middle = 0
